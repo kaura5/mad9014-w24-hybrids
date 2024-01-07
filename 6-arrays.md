@@ -5,7 +5,7 @@ let arr = ['apple', 'orange', 'grapes', 'banana', 'kiwi'];
 ```
 use any three array methods to achieve:
 ```js
-let arr = [[ 'apple', 'blueberry', 'grapes', 'banana', 'strawberry' ]];
+let arr = [ 'apple', 'blueberry', 'grapes', 'banana', 'strawberry' ];
 ```
 For each item, write the function AND the call to the function, passing any required values for testing.
 2. Write a function that accepts a single Array of Strings as an argument. The function will create a new Array with all the Strings from the original Array converted to uppercase. Then the function returns the new Array.
