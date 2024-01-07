@@ -1,4 +1,4 @@
-# mad9014-w24-hybrids
+# mad9014-w24-hybrids (strings)
 For each item, write the function AND the call to the function, passing any required values for testing:
 1. Write a function which will accept, `firstName` and `lastName` as argument. Then Concatenate these variables to create a third variable, `fullName`. Print `fullName` to the console. Also return the `fullName`.
 2. Write a function that will accept a `randomString` and returns the length of that string.

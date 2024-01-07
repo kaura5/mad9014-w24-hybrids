@@ -1,4 +1,4 @@
-# mad9014-w24-hybrids
+# mad9014-w24-hybrids (variables)
 1. Declare three meaningfully named variables using different keywords (var, let, const). Explain the differences between them (write in a commnent). Now assign primitive values to each variable. Print the values of these variables to the console.
 2. Declare 9 variables of the following data types and then check the data type using the `typeof` operator: `undefined`, `boolean`, `number`, `string`, `bigint`, `symbol`, `object`, `function`, `null`.
 3. Declare four meaningfully named variables with const. Assign primitive values to two of them and any kind of Objects to the other two.

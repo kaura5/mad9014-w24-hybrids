@@ -1,1 +1,1 @@
-# mad9014-w24-hybrids
+# mad9014-w24-hybrids (arrays)
